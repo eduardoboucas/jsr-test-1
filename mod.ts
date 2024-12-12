@@ -1,4 +1,4 @@
-import cowsay from "npm:cowsay";
+import cowsay from "npm:cowsay@^1.6.0";
 
 export const greet = (name: string): string => `Hello, ${name}`;
 
