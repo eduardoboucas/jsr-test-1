@@ -1,0 +1,5 @@
+{
+  "name": "@eduardoboucas/jsr-test-1",
+  "version": "1.0.0",
+  "exports": "./mod.ts"
+}
